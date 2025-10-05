@@ -1,4 +1,5 @@
 # tia-lu-restaurant-management-marselha
+Etapa 2: Refatoração
 Sistema de pedidos de um Restaurante em Kotlin
 
 Equipe Marselha: Fátima Pinho, Ismael Rodrigues e Rebeca Helen
